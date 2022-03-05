@@ -1,0 +1,29 @@
+* {
+    margin: 0%;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: white;
+}
+
+#topText{
+    text-align: center;
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 50px
+}
+#form{
+    font-family: 'Roboto Serif', sans-serif;
+    margin:50px 500px;
+    display: flex;
+    flex-direction: column;
+}
+#submit{
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 50px;
+    align-self: center;
+    height: 30px;
+    width: 80px;
+    background-color: rgb(167, 106, 224);
+}

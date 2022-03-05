@@ -1,0 +1,36 @@
+* {
+    margin: 0%;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: white;
+}
+#topText{
+    text-align: center;
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 50px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+#form{
+    margin: 100px;
+    text-align: center;
+    font-family: 'Roboto Serif', sans-serif;
+}
+#adminLogIn{
+    margin: 30px;
+    font-family: 'Roboto Serif', sans-serif;
+    height: 30px;
+    width: 80px;
+    background-color: rgb(167, 106, 224);
+}
+#div1{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    font-family: 'Roboto Serif', sans-serif;
+    
+}

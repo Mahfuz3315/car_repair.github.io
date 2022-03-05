@@ -1,0 +1,16 @@
+* {
+    margin: 0%;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: white;
+}
+#topText{
+    text-align: center;
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 50px;
+    padding-top: 20px;
+    font-size: 30px;
+}

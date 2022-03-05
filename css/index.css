@@ -1,0 +1,102 @@
+* {
+    margin: 0%;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: white;
+}
+footer{
+    background-color: rgb(148, 148, 148);
+    text-align: center;
+}
+
+#pageName{
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 50px;
+    padding-top: 20px;
+    font-size: 50px;
+}
+
+#pageName{
+    text-align: center;
+    margin: 20px;
+}
+
+#topImg{
+    height: 50px;
+    width: 60px;
+}
+
+#div1{
+    margin: 50px;
+    display: flex;
+}
+
+#repairPic{
+    height: 500px;
+    width: 550px;
+}
+
+#welcomeNote{
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 150px;
+    font-size: 30px;
+}
+
+#div2{
+    margin: 50px;
+    display: flex;
+}
+
+#repairPic2{
+    margin: 100px;
+    height: 500px;
+    width: 600px;
+}
+
+#application{
+    background-color: coral;
+    font-family: 'Roboto Serif', sans-serif;
+    height: 40px;
+    width: 150px;
+    margin-top: 50px;
+    margin-left: 150px;
+}
+ #div3{
+     margin: 100px;
+     
+ }
+ #applyNote{
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 150px;
+    margin-bottom: 0%;
+    font-size: 30px;
+ }
+ #botPic{
+     padding-left: 390px;
+     width: 50%;
+ }
+
+ #line{
+     margin-left: 20px;
+     height: 10px;
+     width: 500px;
+ }
+
+ #line2{
+    margin-left: 20px;
+    height: 10px;
+    width: 500px;
+}
+
+#line3{
+    padding-top: 50px;
+    margin-left: 65%;
+    height: 10px;
+    width: 500px;
+}
+#adminlogin{
+    text-decoration: none;
+}

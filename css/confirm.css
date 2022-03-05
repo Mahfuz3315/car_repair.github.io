@@ -1,0 +1,29 @@
+* {
+    margin: 0%;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: white;
+}
+#message{
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    align-items: center;
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 350px
+}
+#message > a{
+    font-family: 'Roboto Serif', sans-serif;
+    background-color: rgb(167, 106, 224);
+    text-decoration: none;
+    padding: 15px 20px;
+    color: white;
+}
+
+#message > a:hover{
+    background-color: rgb(198, 159, 235);
+    
+}

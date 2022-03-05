@@ -1,0 +1,32 @@
+* {
+    margin: 0%;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-color: white;
+}
+#topText{
+    text-align: center;
+    font-family: 'Roboto Serif', sans-serif;
+    margin: 50px;
+    padding-top: 20px;
+    font-size: 30px;
+}
+#table{
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    margin: 50px;
+}
+
+td, th {
+    border: 1px solid #e7d3e6;
+    text-align: left;
+    padding: 8px;
+  }
+  
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
